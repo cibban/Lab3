@@ -1,7 +1,7 @@
 package kyh.labs.lab3;
 
 class Patient {
-    String name;
+    private String name;
     private String sickness;
 
     Patient(String name){
